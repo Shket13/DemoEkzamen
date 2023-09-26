@@ -10,5 +10,5 @@
 
 Разработать ER-диаграмму.
 
-image image
-
+![image](https://github.com/Shket13/DemoEkzamen/assets/97594188/1a5310d0-319d-4313-b4aa-b2163badf8b4)
+![image](https://github.com/Shket13/DemoEkzamen/assets/97594188/7bbd5d0c-4029-424e-b8a6-0f5b6279ca13)
